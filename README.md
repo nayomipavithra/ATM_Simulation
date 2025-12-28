@@ -1,2 +1,2 @@
 # ATM_Simulation
-A beginner friendly ATM Simulation in C++ that demonstrates core banking operations like PIN verification, balance inquiry, deposit, and withdrawal using a console-based interface.
+This ATM simulation program starts by asking the user to enter a PIN for authentication. Once the PIN is verified, the user is presented with a menu to check the account balance, deposit money, withdraw money or exit the system. The program updates the balance based on user actions and continues running until the user chooses to exit.
